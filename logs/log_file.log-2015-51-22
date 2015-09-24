@@ -1,0 +1,17 @@
+[2015-09-22 20:51:28.223] [INFO] hotelRegistartionTest - Join Us | HotelTonight | Book a hotel for tonight, tomorrow and up to 7 days out
+[2015-09-22 20:51:28.229] [INFO] hotelRegistartionTest - We have got to the Hotel page
+[2015-09-22 20:51:28.307] [INFO] hotelRegistartionTest - 
+[2015-09-22 20:51:28.309] [INFO] hotelRegistartionTest - { hname: 'Automation Test Hotel',
+  address: 'Bristol, City of Bristol BS1',
+  city: 'Bristol',
+  state: 'BS1',
+  zip: 'BS1',
+  country: 'UK',
+  website: 'www.google.com',
+  firstName: 'Automation',
+  lastName: 'Test',
+  role: 'test',
+  email: 'test@test.com',
+  phone: '1234567890',
+  aboutus: 'A friend or family member',
+  thanksMessage: 'Thanks again for your interest in HotelTonight.' }

@@ -1,0 +1,5 @@
+[2015-09-24 00:16:55.910] [INFO] hotelRegistartionTest - Navigate to Hotel Website
+[2015-09-24 00:16:55.950] [INFO] hotelRegistartionTest - { url: 'https://www.hoteltonight.com/join-the-revolution-in-hotel-bookings/',
+  PageTitle: 'Join Us | HotelTonight | Book a hotel for tonight, tomorrow and up to 7 days out' }
+[2015-09-24 00:16:59.856] [INFO] hotelRegistartionTest - Join Us | HotelTonight | Book a hotel for tonight, tomorrow and up to 7 days out
+[2015-09-24 00:16:59.859] [INFO] hotelRegistartionTest - We have got to the Hotel page

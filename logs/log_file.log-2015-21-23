@@ -1,0 +1,25 @@
+[2015-09-23 21:21:29.091] [INFO] hotelRegistartionTest - Navigate to Hotel Website
+[2015-09-23 21:21:29.096] [INFO] hotelRegistartionTest - { url: 'https://www.hoteltonight.com/join-the-revolution-in-hotel-bookings/',
+  PageTitle: 'Join Us | HotelTonight | Book a hotel for tonight, tomorrow and up to 7 days out' }
+[2015-09-23 21:21:30.982] [INFO] hotelRegistartionTest - Join Us | HotelTonight | Book a hotel for tonight, tomorrow and up to 7 days out
+[2015-09-23 21:21:30.986] [INFO] hotelRegistartionTest - We have got to the Hotel page
+[2015-09-23 21:21:31.949] [INFO] hotelRegistartionTest - 
+[2015-09-23 21:21:31.952] [INFO] hotelRegistartionTest - { hname: 'Automation Test Hotel',
+  address: 'Bristol, City of Bristol BS1',
+  city: 'Bristol',
+  state: 'BS1',
+  zip: 'BS1',
+  country: 'UK',
+  website: 'www.google.com',
+  firstName: 'Automation',
+  lastName: 'Test',
+  role: 'test',
+  email: 'test@test.com',
+  phone: '1234567890',
+  aboutus: 'A friend or family member',
+  thanksMessage: 'Thanks again for your interest in HotelTonight.' }
+[2015-09-23 21:21:37.213] [INFO] hotelRegistartionTest - Thanks for your interest in HotelTonight!
+[2015-09-23 21:21:48.386] [INFO] hotelRegistartionTest - Thanks again for your interest in HotelTonight.
+We’ve got your info, and will be in touch soon.
+[2015-09-23 21:21:48.425] [INFO] hotelRegistartionTest - 
+[2015-09-23 21:21:51.141] [INFO] console - [launcher] 0 instance(s) of WebDriver still running

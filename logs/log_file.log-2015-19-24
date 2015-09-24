@@ -1,0 +1,7 @@
+[2015-09-24 22:19:34.313] [INFO] hotelRegistartionTest - Object {
+  then: [Function: then],
+  cancel: [Function: cancel],
+  isPending: [Function: isPending] }
+[2015-09-24 22:19:34.317] [INFO] hotelRegistartionTest - Join Us | HotelTonight | Book a hotel for tonight, tomorrow and up to 7 days out
+[2015-09-24 22:19:34.318] [INFO] hotelRegistartionTest - We dont see the correct page
+[2015-09-24 22:19:49.613] [INFO] console - [launcher] 0 instance(s) of WebDriver still running

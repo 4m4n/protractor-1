@@ -1,0 +1,20 @@
+[2015-09-23 08:13:23.049] [INFO] hotelRegistartionTest - Navigate to Hotel Website
+[2015-09-23 08:13:23.052] [INFO] hotelRegistartionTest - { url: 'https://www.hoteltonight.com/join-the-revolution-in-hotel-bookings/',
+  PageTitle: 'Join Us | HotelTonight | Book a hotel for tonight, tomorrow and up to 7 days out' }
+[2015-09-23 08:13:24.395] [INFO] hotelRegistartionTest - Join Us | HotelTonight | Book a hotel for tonight, tomorrow and up to 7 days out
+[2015-09-23 08:13:24.398] [INFO] hotelRegistartionTest - We have got to the Hotel page
+[2015-09-23 08:13:24.471] [INFO] hotelRegistartionTest - 
+[2015-09-23 08:13:24.472] [INFO] hotelRegistartionTest - { hname: 'Automation Test Hotel',
+  address: 'Bristol, City of Bristol BS1',
+  city: 'Bristol',
+  state: 'BS1',
+  zip: 'BS1',
+  country: 'UK',
+  website: 'www.google.com',
+  firstName: 'Automation',
+  lastName: 'Test',
+  role: 'test',
+  email: 'test@test.com',
+  phone: '1234567890',
+  aboutus: 'A friend or family member',
+  thanksMessage: 'Thanks again for your interest in HotelTonight.' }

@@ -1,0 +1,26 @@
+[2015-09-23 21:31:31.456] [INFO] console - problem trying to remove a folder
+[2015-09-23 21:31:31.487] [INFO] hotelRegistartionTest - Navigate to Hotel Website
+[2015-09-23 21:31:31.488] [INFO] hotelRegistartionTest - { url: 'https://www.hoteltonight.com/join-the-revolution-in-hotel-bookings/',
+  PageTitle: 'Join Us | HotelTonight | Book a hotel for tonight, tomorrow and up to 7 days out' }
+[2015-09-23 21:31:33.145] [INFO] hotelRegistartionTest - Join Us | HotelTonight | Book a hotel for tonight, tomorrow and up to 7 days out
+[2015-09-23 21:31:33.148] [INFO] hotelRegistartionTest - We have got to the Hotel page
+[2015-09-23 21:31:33.597] [INFO] hotelRegistartionTest - 
+[2015-09-23 21:31:33.601] [INFO] hotelRegistartionTest - { hname: 'Automation Test Hotel',
+  address: 'Bristol, City of Bristol BS1',
+  city: 'Bristol',
+  state: 'BS1',
+  zip: 'BS1',
+  country: 'UK',
+  website: 'www.google.com',
+  firstName: 'Automation',
+  lastName: 'Test',
+  role: 'test',
+  email: 'test@test.com',
+  phone: '1234567890',
+  aboutus: 'A friend or family member',
+  thanksMessage: 'Thanks again for your interest in HotelTonight.' }
+[2015-09-23 21:31:41.507] [INFO] hotelRegistartionTest - Thanks for your interest in HotelTonight!
+[2015-09-23 21:31:56.548] [INFO] hotelRegistartionTest - Thanks again for your interest in HotelTonight.
+We’ve got your info, and will be in touch soon.
+[2015-09-23 21:31:56.551] [INFO] hotelRegistartionTest - 
+[2015-09-23 21:31:59.151] [INFO] console - [launcher] 0 instance(s) of WebDriver still running

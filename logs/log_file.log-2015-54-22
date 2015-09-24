@@ -1,0 +1,13 @@
+[2015-09-22 20:54:18.282] [WARN] console - A Jasmine spec timed out. Resetting the WebDriver Control Flow.
+[2015-09-22 20:54:18.287] [WARN] console - The last active task was: 
+[2015-09-22 20:54:18.295] [WARN] console - WebDriver.findElement(By.xpath(".//*[@id='contact']/h2"))
+    at [object Object].webdriver.WebDriver.schedule (C:\Users\hp\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:345:15)
+    at [object Object].webdriver.WebDriver.findElement (C:\Users\hp\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:819:17)
+    at C:\Users\hp\Desktop\protractor1.8-master\protractor1.8-master\src\test\hotel_registrationTest.js:41:18
+    at C:\Users\hp\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1582:15
+    at [object Object].webdriver.promise.ControlFlow.runInNewFrame_ (C:\Users\hp\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1654:20)
+    at notify (C:\Users\hp\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:465:12)
+    at notifyAll (C:\Users\hp\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:442:7)
+    at resolve (C:\Users\hp\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:420:7)
+    at fulfill (C:\Users\hp\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:535:5)
+[2015-09-22 20:54:53.108] [INFO] console - [launcher] 0 instance(s) of WebDriver still running
