@@ -36,6 +36,7 @@ var dataProvider=require('../lib/dataProvider.js');
 	hotelPO.setLastName(dataProviderObj.lastName);
 	hotelPO.setTitle(dataProviderObj.role);
 	hotelPO.setEmail(dataProviderObj.email);
+	hotelPO.setPhone(dataProviderObj.phone);
 	hotelPO.selectAboutUs(dataProviderObj.aboutus);
 	hotelPO.clcikSubmit();
 	hotelPO.returnRegistraionPageText().then(function(text){

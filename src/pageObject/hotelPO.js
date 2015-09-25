@@ -66,6 +66,9 @@ var hotelPO = function() {
    this.setEmail = function(hEmail) {
     email.sendKeys(hEmail);
   };
+     this.setPhone = function(hEmail) {
+    phone.sendKeys(hEmail);
+  };
    this.selectAboutUs = function(hAboutus) {
     aboutus.sendKeys(hAboutus);
   };
