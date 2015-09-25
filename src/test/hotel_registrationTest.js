@@ -23,7 +23,7 @@ var dataProvider=require('../lib/dataProvider.js');
 	 });	
 	it('Register New Hotel', function() {
 	var dataProviderObj=dataProvider.readDataProvider('../src/testData/registration.json','registration');
-	loggers.log("Register new Hotel Test Execution Started..");
+	loggers.info("Register new Hotel Test Execution Started..");
     hotelPO.clickSignUp();
     hotelPO.setName(dataProviderObj.hname);
 	hotelPO.setStreet(dataProviderObj.address);
@@ -41,8 +41,8 @@ var dataProvider=require('../lib/dataProvider.js');
 	hotelPO.clcikSubmit();
 	hotelPO.returnRegistraionPageText().then(function(text){
 	//expect(text).toEqual(dataProviderObj.thanksMessage);
-	loggers.log(text);
-	loggers.log("Register new Hotel Test Execution done..");
+	loggers.info(text);
+	loggers.info("Register new Hotel Test Execution done..");
 	});
   });
 });
