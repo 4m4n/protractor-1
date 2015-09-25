@@ -21,7 +21,7 @@ var dataProvider=require('../lib/dataProvider.js');
 		}; 
 		}); 
 	 });	
-	it('Navigate Hotel Website', function() {
+	it('Register New Hotel', function() {
 	var dataProviderObj=dataProvider.readDataProvider('../src/testData/registration.json','registration');
 	loggers.log("Register new Hotel Test Execution Started..");
     hotelPO.clickSignUp();
