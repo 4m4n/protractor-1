@@ -39,6 +39,7 @@ var dataProvider=require('../lib/dataProvider.js');
 	hotelPO.setPhone(dataProviderObj.phone);
 	hotelPO.selectAboutUs(dataProviderObj.aboutus);
 	hotelPO.clcikSubmit();
+	browser.sleep(20000);
 	hotelPO.returnRegistraionPageText().then(function(text){
 	//expect(text).toEqual(dataProviderObj.thanksMessage);
 	loggers.info(text);
